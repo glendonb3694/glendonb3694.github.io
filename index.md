@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+![Chode](/images/Screen Shot 2017-06-19 at 12.55.01 PM.png)
 
 You can use the [editor on GitHub](https://github.com/glendonb3694/glendonb3694.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
